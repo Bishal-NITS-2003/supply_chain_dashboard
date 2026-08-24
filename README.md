@@ -10,15 +10,6 @@ The goal of the project was to take raw order data, clean it, create useful deli
 
 ![Supply Chain Dashboard](dashboard_image.jpg)
 
-## ⬇️ Download the Dashboard
-
-Want to explore the dashboard yourself?
-
-### [Download the Excel Dashboard](YOUR_RELEASE_DOWNLOAD_LINK)
-
-> The Excel file is hosted as a GitHub Release because of its large file size.
-
-The workbook contains the complete dashboard, PivotTables, Power Query transformations, calculated fields, and interactive slicers.
 
 ---
 
@@ -129,4 +120,3 @@ Some possible improvements for a future version:
 - Add geographical visualizations
 - Automate data refresh and reporting
 
-**Note:** The public repository does not contain the original raw customer data or personally identifiable information.
