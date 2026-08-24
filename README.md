@@ -4,7 +4,7 @@ An Excel-based supply chain analytics dashboard built to analyze sales, profitab
 
 The goal of the project was to take raw order data, clean it, create useful delivery metrics, and turn the results into an interactive dashboard that can be used to understand business and supply chain performance.
 
-### 🚀 [Live Dashboard]([YOUR_EXCEL_WEB_LINK](https://1drv.ms/x/c/9d46b6796e607595/IQD6U1e-S7atTYJF8Pgn5SYVAXcXN1-L5tcTuh61sgrHe00?e=Gep2cJ)) · [⬇️ Download Excel Dashboard]([YOUR_DOWNLOAD_LINK](https://drive.google.com/drive/folders/1QiTEvHVL9BFZt6umPsmwIgO4iLgadl13?usp=sharing))
+### 🚀 [Live Dashboard](https://1drv.ms/x/c/9d46b6796e607595/IQD6U1e-S7atTYJF8Pgn5SYVAXcXN1-L5tcTuh61sgrHe00?e=Gep2cJ) · [⬇️ Download Excel Dashboard](https://drive.google.com/drive/folders/1QiTEvHVL9BFZt6umPsmwIgO4iLgadl13?usp=sharing)
 
 ## 📊 Dashboard Preview
 
